@@ -86,6 +86,11 @@
         <item>4500</item>
     </integer-array>
 
+    <!-- Whether or not to skip the initial brightness ramps when the display transitions to
+          STATE_ON. Setting this to true will skip the brightness ramp to the last stored active
+          brightness value and will repeat for the following ramp if autobrightness is enabled. -->
+     <bool name="config_skipScreenOnBrightnessRamp">true</bool>
+
     <!-- Array of desired screen brightness in nits corresponding to the lux values
          in the config_autoBrightnessLevels array. As with config_screenBrightnessMinimumNits and
          config_screenBrightnessMaximumNits, the display brightness is defined as the measured
