@@ -6,7 +6,7 @@
      "remote": "github"
    },
    {
-     "repository": "RevengeOS-Devices/kernel_xiaomi_sm6150",
+     "repository": "RevengeOS-Devices/kernel_xiaomi_davinci",
      "target_path": "kernel/xiaomi/sm6150",
      "branch": "HastyReborn",
      "remote": "github" 
