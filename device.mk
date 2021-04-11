@@ -123,7 +123,7 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.camera.raw.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.camera.raw.xml
 
 # ANXCamera
-$(call inherit-product, vendor/aeonax/ANXCamera/anx-vendor.mk)
+#$(call inherit-product, vendor/aeonax/ANXCamera/anx-vendor.mk)
 
 # Camera motor
 PRODUCT_PACKAGES += \
