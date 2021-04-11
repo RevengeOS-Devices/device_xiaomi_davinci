@@ -1,0 +1,26 @@
+[
+   {
+     "repository": "RevengeOS-Devices/device_xiaomi_davinci",
+     "target_path": "device/xiaomi/davinci",
+     "branch": "r11.0",
+     "remote": "github"
+   },
+   {
+     "repository": "RevengeOS-Devices/kernel_xiaomi_sm6150",
+     "target_path": "kernel/xiaomi/sm6150",
+     "branch": "r11.0",
+     "remote": "github" 
+   },
+   {
+     "repository": "RevengeOS-Devices/vendor_xiaomi_davinci",
+     "target_path": "vendor/xiaomi/davinci",
+     "branch": "r11.0",
+     "remote": "github"
+   },
+   {
+     "repository": "LineageOS/android_hardware_xiaomi",
+     "target_path": "hardware/xiaomi",
+     "branch": "lineage-18.1",
+     "remote": "github"
+    }  
+ ]
