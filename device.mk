@@ -364,7 +364,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/xiaomi \
-    hardware/qcom-caf/sm8150
+    hardware/qcom-caf/sm8150 \
     hardware/google/pixel
 
 # Telephony
