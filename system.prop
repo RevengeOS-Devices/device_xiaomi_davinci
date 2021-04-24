@@ -47,3 +47,8 @@ wifi.interface=wlan0
 
 # SurfaceFlinger brightness tweak
 ro.sf.force_light_brightness=1
+
+#Blur
+ro.surface_flinger.supports_background_blur=1
+ro.sf.blurs_are_expensive=1
+debug.sf.disable_backpressure=1
