@@ -88,4 +88,8 @@
     <string name="reset_default_button_title">Reset to default configuration</string>
     <string name="reset_default_button_summary">Reset all the configurations of this screen</string>
     <string name="contrast_slider_title">Contrast</string>
+
+    <!-- Doze brightness -->
+    <string name="doze_brightness_title">Luminosità Doze</string>
+    <string name="doze_brightness_summary">Modalità %s abilitata</string>
 </resources>

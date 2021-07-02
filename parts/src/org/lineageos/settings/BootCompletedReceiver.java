@@ -46,6 +46,7 @@ public class BootCompletedReceiver extends BroadcastReceiver {
         PopupCameraUtils.startService(context);
         ThermalUtils.startService(context);
         DcDimmingUtils.startService(context);
+        DozeUtils.onBootCompleted(context);
         if (KcalUtils.isKcalSupported())
             KcalUtils.writeCurrentSettings(sharedPrefs);
     }
