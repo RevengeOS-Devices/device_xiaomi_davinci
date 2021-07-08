@@ -2,8 +2,7 @@
    {
      "remote": "devices", 
      "repository": "kernel_xiaomi_davinci",
-     "target_path": "kernel/xiaomi/sm6150",
-     "branch": "HastyReborn"
+     "target_path": "kernel/xiaomi/sm6150"
    },
    {
      "remote": "devices",
