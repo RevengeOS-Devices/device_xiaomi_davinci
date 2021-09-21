@@ -40,7 +40,7 @@ PRODUCT_PACKAGES += \
 # Audio
 PRODUCT_PACKAGES += \
     audio.primary.sm6150 \
-    audio_amplifier.sm6150
+    audio_amplifier.sm6150 \
     android.hardware.audio@6.0-impl \
     android.hardware.audio.effect@6.0-impl \
     android.hardware.audio.service \
